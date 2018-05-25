@@ -1,4 +1,3 @@
-# findface
 
 ## **FindFace Enterprise Server SDK's official documentation**
 [Documentation](http://docs.findface.pro/projects/ffser/en/2.6/)
