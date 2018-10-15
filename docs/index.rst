@@ -14,8 +14,10 @@ FindFace Enterprise Server SDK
 FindFace Security
 =======================
 
-* `FindFace Security 1.1 <http://docs.findface.pro/projects/ffsecurity/en/1.1/>`__ (latest)
-* `FindFace Security 1.1 <http://docs.findface.pro/projects/ffsecurity/ru/1.1/>`__ (Russian version)
+* `FindFace Security 1.1 for Ubuntu <http://docs.findface.pro/projects/ffsecurity/en/1.1/>`__ (latest)
+* `FindFace Security 1.1 for Ubuntu <http://docs.findface.pro/projects/ffsecurity/ru/1.1/>`__ (Russian version)
+* `FindFace Security 1.1 for Windows <http://docs.findface.pro/projects/ffsecurity/en/1.1-windows/`__ (latest)
+* `FindFace Security 1.1 for Windows <http://docs.findface.pro/projects/ffsecurity/ru/1.1-windows/>`__ (Russian version)
 * `FindFace Security 1.0 <http://docs.findface.pro/projects/ffsecurity/en/1.0/>`__
 * `FindFace Security 1.0 <http://docs.findface.pro/projects/ffsecurity/ru/1.0/>`__ (Russian version)
 
